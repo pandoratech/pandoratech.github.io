@@ -1,1 +1,0 @@
-pandoratech.github.io
