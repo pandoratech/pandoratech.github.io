@@ -1776,6 +1776,12 @@ body {
 .cid-qVrM1813rt P {
   color: #ffffff;
 }
+.cid-qVrM1813rt SPAN {
+  color: #ffffff;
+}
+.cid-qVrM1813rt H3 {
+  color: #ffffff;
+}
 .cid-qVmfDn7SDn {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1809,7 +1815,7 @@ body {
   word-break: break-word;
 }
 .cid-qVmfDn7SDn .mbr-section-subtitle {
-  color: white;
+  color: #767676;
 }
 .cid-qVmfDn7SDn .card-title {
   font-weight: 500;

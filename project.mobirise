@@ -484,6 +484,12 @@
             },
             "P": {
               "color": "#ffffff"
+            },
+            "SPAN": {
+              "color": "#ffffff"
+            },
+            "H3": {
+              "color": "#ffffff"
             }
           },
           "_name": "header9",
