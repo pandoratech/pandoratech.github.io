@@ -273,7 +273,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/ipad6-13-1400x375.png",
+              "src": "@PROJECT_PATH@/assets/images/mockupsite.png",
               "width": 1400,
               "link": "",
               "alt": "",
