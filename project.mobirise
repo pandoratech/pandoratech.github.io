@@ -25,8 +25,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Betty App",
+        "meta_descr": "Sua assistente digital.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
