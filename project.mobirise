@@ -14,7 +14,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.7",
-    "uniqCompNum": 11,
+    "uniqCompNum": 12,
     "versionPublish": "4.7.7",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -97,7 +97,7 @@
           },
           "title": "<b>Economize </b><b>com&nbsp;</b><br><b>tecnologia</b>",
           "text": "Betty é uma assistente digital que vem para ajudar profissionais e gestores de salões de beleza a entrar para a era digital, auxiliando os proprietários e profissionais da beleza a fazer o melhor gerenciamento das suas agendas. Com a Betty, é possível realizar agendamentos de clientes, cadastrar profissionais parceiros e desfrutar dos serviços pré-cadastrados no aplicativo, tornando toda gestão do salão mais eficiente!",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-secondary-outline\" href=\"index.html#content5-3\" data-toolbar=\"-mbrBtnMove\">Saiba Como</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-secondary-outline\" href=\"index.html#content5-3\" data-toolbar=\"-mbrBtnMove\">Faça o Download!<br></a> ",
           "alias": "purity/components",
           "_tags": [
             "Layout"
@@ -273,7 +273,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/email-1400x1050.png",
+              "src": "@PROJECT_PATH@/assets/images/ipad6-12-1400x375.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -283,13 +283,13 @@
               "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
           "alias": "purity/components",
           "_tags": [
             "Layout"
           ],
-          "_name": "image2",
-          "_anchor": "image2-6"
+          "_name": "image1",
+          "_anchor": "image1-b"
         },
         {
           "_params": {
@@ -346,7 +346,7 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Enviar</a>",
           "text1": "<strong>Contato</strong><br>\nEmail: contato@pandoratech.com.br<br>\nPhone: +55 (51) 99388 0534<br><br>",
-          "text2": "<strong>Links</strong><ul><li><a href=\"https://www.facebook.com/betty4beauty\" target=\"_blank\">Facebook</a></li><li><a href=\"https://www.instagram.com/betty4beauty/\" target=\"_blank\">Instagram</a></li></ul>",
+          "text2": "<strong>Links</strong><ul><li><a href=\"https://www.facebook.com/betty4beauty\" target=\"_blank\" class=\"text-info\">Facebook</a></li><li><a href=\"https://www.instagram.com/betty4beauty/\" target=\"_blank\" class=\"text-info\">Instagram</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "pandoratech5@gmail.com",
