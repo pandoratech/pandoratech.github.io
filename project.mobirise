@@ -18,7 +18,7 @@
     "versionPublish": "4.7.7",
     "screenshot": "screenshot.png",
     "favicon": "",
-    "noImageResize": "",
+    "noImageResize": "true",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-128894740-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-128894740-1');\r\n</script>\r\n\r\n"
   },
   "pages": {
@@ -83,7 +83,7 @@
             "showArrow": false,
             "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/fundo-10-2000x1033.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/fundo-10.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff8e0",
@@ -273,7 +273,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/ipad6-12-1400x375.png",
+              "src": "@PROJECT_PATH@/assets/images/ipad6-13-1400x375.png",
               "width": 1400,
               "link": "",
               "alt": "",
